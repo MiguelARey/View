@@ -1,24 +1,16 @@
 # finalproject-view
 
-## Project setup
+## Figma
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+https://www.figma.com/file/ZlvD0e9eHZVTUND2xYTAvk/View?type=design&node-id=0-1&t=opgkpiLYRsLD7Yb1-0
 ```
 
-### Compiles and minifies for production
+### Color Palette
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+https://colorhunt.co/palette/1b1919616f39a7d129f8eeb4
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Presentation
+```
+https://docs.google.com/presentation/d/1PK_GXxbEXMpYomVIM2vaS-axwJTZYbS71dHmaYfGStc/edit?usp=sharing
+```

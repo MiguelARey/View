@@ -2,18 +2,21 @@
   <!-- <HeaderComponent/>
   <NavComponent /> -->
   <!-- <MainPageComponent/> -->
-  <LoginPageComponent/>
+  <!-- <LoginPageComponent/> -->
+  <SignUpPageComponent/>
 </template>
 
 <script>
-import LoginPageComponent from './components/pages/LoginPage.vue'
+import SignUpPageComponent from './components/pages/SignUpPage.vue'
+// import LoginPageComponent from './components/pages/LoginPage.vue'
 // import MainPageComponent from './components/pages/MainPage.vue';
 // import HeaderComponent from './components/HeaderComponent.vue';
 // import NavComponent from './components/NavComponent.vue';
 export default {
   name: 'App',
   components: {
-    LoginPageComponent
+    SignUpPageComponent
+    // LoginPageComponent
     // MainPageComponent
     // HeaderComponent,
     // NavComponent,

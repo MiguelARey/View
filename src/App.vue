@@ -1,16 +1,19 @@
 <template>
-  <HeaderComponent/>
-  <NavComponent />
+  <!-- <HeaderComponent/>
+  <NavComponent /> -->
+  <MainPageComponent/>
 </template>
 
 <script>
-import HeaderComponent from './components/HeaderComponent.vue';
-import NavComponent from './components/NavComponent.vue';
+import MainPageComponent from './components/pages/MainPage.vue';
+// import HeaderComponent from './components/HeaderComponent.vue';
+// import NavComponent from './components/NavComponent.vue';
 export default {
   name: 'App',
   components: {
-    HeaderComponent,
-    NavComponent,
+    MainPageComponent
+    // HeaderComponent,
+    // NavComponent,
   }
 }
 </script>
@@ -23,5 +26,8 @@ export default {
   text-align: center;
   /* color: #2c3e50;
   margin-top: 60px; */
+}
+p {
+  margin-bottom: 0;
 }
 </style>

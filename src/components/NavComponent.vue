@@ -21,7 +21,7 @@ export default {
 
 <style scope>
 .mainNav {
-    height: 3vh;
+    height: 7vh;
     border-bottom: 1px solid #D9D9D9;
     padding: 0.5% 2%;
     display: flex;

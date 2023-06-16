@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+li {
+  display: flex;
+}
+
+p {
+  line-height: 1.5;
+}
+
+body,
+nav,
+nav aside,
+header,
+details > ul,
+main,
+main > section,
+main > section > article,
+footer,
+footer > article,
+footer aside {
+  display: flex;
+  flex-direction: column;
+}/*# sourceMappingURL=style.css.map */

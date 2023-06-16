@@ -1,17 +1,20 @@
 <template>
   <!-- <HeaderComponent/>
   <NavComponent /> -->
-  <MainPageComponent/>
+  <!-- <MainPageComponent/> -->
+  <LoginPageComponent/>
 </template>
 
 <script>
-import MainPageComponent from './components/pages/MainPage.vue';
+import LoginPageComponent from './components/pages/LoginPage.vue'
+// import MainPageComponent from './components/pages/MainPage.vue';
 // import HeaderComponent from './components/HeaderComponent.vue';
 // import NavComponent from './components/NavComponent.vue';
 export default {
   name: 'App',
   components: {
-    MainPageComponent
+    LoginPageComponent
+    // MainPageComponent
     // HeaderComponent,
     // NavComponent,
   }

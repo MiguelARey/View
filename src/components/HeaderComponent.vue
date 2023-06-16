@@ -1,6 +1,8 @@
 <template>
     <header class="mainHeader">
-        <img src="../assets/img/logo-white.svg" />
+        <!-- <router-link to="/"> -->
+            <img src="../assets/img/logo-white.svg" />
+        <!-- </router-link> -->
     </header>
 </template>
 
@@ -21,5 +23,8 @@ export default {
 }
 .mainHeader > img {
     width: 10%;
+}
+.mainHeader > img:hover {
+    cursor: pointer;
 }
 </style>

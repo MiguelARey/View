@@ -49,8 +49,8 @@
                     <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
                     <a href="#"><i class="fa-brands fa-reddit-alien"></i></a>
                     <a href="#"><i class="fa-brands fa-discord"></i></a>
-                    <i class="fa-brands fa-facebook-messenger"></i>
-                    <i class="fa-brands fa-whatsapp"></i>
+                    <a href="#"><i class="fa-brands fa-facebook-messenger"></i></a>
+                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
                 </section>
             </div>
         </section>

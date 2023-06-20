@@ -1,5 +1,5 @@
 <template>
-    <div class="home-page">
+    <div class="product-body">
         <div class="item-header">
             <div>
                 <h1>Xbox One XS</h1>
@@ -148,16 +148,11 @@
             </div>
         </div>
     </div>
-    <FooterSection/>
 </template>
 
 <script>
-import FooterSection from './components/FooterSection.vue'
 
 export default{
-    name:'HomePage',
-    componentes:{
-        FooterSection
-    }
+    name:'HomePage'
 }
 </script>

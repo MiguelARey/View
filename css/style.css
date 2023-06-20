@@ -169,7 +169,7 @@ footer article > p {
   gap: 1vh;
 }
 .newsletter h1 {
-  font-size: 3rem;
+  font-size: 2.3rem;
   background: linear-gradient(90deg, rgb(23, 96, 23), #0fd863);
   -webkit-background-clip: text;
   background-clip: text;

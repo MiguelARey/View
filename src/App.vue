@@ -1,14 +1,17 @@
 <template>
-  <HomePage/>
+  <!-- <HomePage/> -->
+  <FooterSection/>
 </template>
 
 <script>
-import HomePage from './components/Pages/HomePage.vue';
+// import HomePage from './components/Pages/HomePage.vue';
+import FooterSection from './components/FooterSection.vue';
 
 export default {
   name: 'App',
   components: {
-    HomePage
+    FooterSection
+    // HomePage
   }
 }
 </script>

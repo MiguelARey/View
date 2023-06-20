@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: "Druk-Wide";
-    src: url(../fonts/Druk-Wide-Bold.ttf);
+    src: url(/src/assets/fonts/Druk-Wide-Bold.ttf);
 }
 
 *{
@@ -175,7 +175,7 @@ footer article{
         gap: 1vh;
     }
     h1{
-        font-size: 3rem;
+        font-size: 2.3rem;
         background: linear-gradient(90deg,rgb(23, 96, 23)
         ,#0fd863);
         -webkit-background-clip: text;

@@ -12,5 +12,5 @@ https://colorhunt.co/palette/1b1919616f39a7d129f8eeb4
 
 ### Presentation
 ```
-https://docs.google.com/presentation/d/1PK_GXxbEXMpYomVIM2vaS-axwJTZYbS71dHmaYfGStc/edit?usp=sharing
+https://docs.google.com/presentation/d/1rgPdClGx2-QzPDRn93YtxSgFC_8Zo8zEQtgQ9fr99Zg/edit?usp=sharing
 ```

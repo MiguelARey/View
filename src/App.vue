@@ -1,18 +1,21 @@
 <template>
-  <FooterSection/>
+  <MainPageComponent/>
 </template>
 
 <script>
-import FooterSection from './components/FooterSection.vue';
+
+import MainPageComponent from './components/pages/MainPage.vue';
 
 export default {
   name: 'App',
   components: {
-    FooterSection
+    MainPageComponent
   }
 }
+
 </script>
 
 <style>
 @import url("../css/style.css");
+
 </style>

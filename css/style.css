@@ -211,11 +211,11 @@ footer article > p {
 }
 
 .product-body {
-  background-color: #07CC59;
+  background-color: white;
 }
 
 .item-header {
-  background-color: #273746;
+  background-color: #07CC59;
   display: flex;
   justify-content: center;
   height: 7vh;
@@ -241,10 +241,13 @@ footer article > p {
   justify-content: center;
 }
 .item-header a:hover {
-  background-color: #07CC59;
+  background-color: white;
   border-radius: 50%;
   transition: 0.4s;
   cursor: pointer;
+}
+.item-header h1, .item-header i {
+  color: #273746;
 }
 
 .product {
@@ -362,6 +365,10 @@ footer article > p {
 .seller i {
   color: #07CC59;
 }
+.seller > aside {
+  display: flex;
+  gap: 0.15rem;
+}
 
 .details-wrapper {
   width: 30%;
@@ -469,7 +476,7 @@ footer article > p {
   padding: 3vh 1vh;
 }
 .seller-info > a {
-  color: whitesmoke;
+  color: #273746;
   text-decoration: none;
   font-weight: 600;
   padding: 2vh;

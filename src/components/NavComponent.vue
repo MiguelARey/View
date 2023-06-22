@@ -1,5 +1,5 @@
 <template>
-    <nav class="mainNav">
+    <section class="mainNav">
         <section class="mainSearch">
             <input type="text" placeholder="Search the product!"/>
             <input type="submit" value="&#xf002;"/>
@@ -10,7 +10,7 @@
             <!-- <router-link to="/login">Login</router-link>
             <router-link to="/signUp">Sign Up</router-link> -->
         </article>
-    </nav>
+    </section>
 </template>
 
 <script>
@@ -25,6 +25,7 @@ export default {
     border-bottom: 1px solid #D9D9D9;
     padding: 0.5% 2%;
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
 }
 .mainNav > section {
